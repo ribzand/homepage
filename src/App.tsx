@@ -46,8 +46,8 @@ function App() {
                     Bankgegevens
                   </h3>
                   <div className="pl-11 space-y-1">
-                    <p className="text-slate-700 font-mono">BE31 7380 2389 4455</p>
-                    <p className="text-slate-600">KREDBEBB</p>
+                    <p className="text-slate-700 font-mono">BE53 9734 4930 5953</p>
+                    <p className="text-slate-600">ARSPBE22XXX</p>
                   </div>
                 </div>
               </div>
